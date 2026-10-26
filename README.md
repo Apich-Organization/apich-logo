@@ -2,4 +2,4 @@
 
 The logo and mascot of Apich Orgnization.
 
-Mascot: Sugar Glider → Sugie
+Mascot: Sugar Glider → Sugie (/ˈsuːɡi/)
