@@ -1,2 +1,3 @@
-# apich-logo
-The logo of Apich Orgnization.
+# Apich Logo & Mascot
+
+The logo and mascot of Apich Orgnization.
